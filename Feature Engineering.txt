@@ -1,0 +1,44 @@
+Nominal Encoding - Nominal Categorical variable
+
+
+1. Yes/No
+2. Male/Female
+3. Cities
+4. 
+
+classes associated with 
+
+1. One hot encoding
+	ex. spain,germany,france
+2. One hot encoding with many categorical
+	ex. take top 10 category from 1000 category. pincodes
+3. Mean Encoding
+	
+
+Ordinal encoding - Ordinal Categorical variable
+
+classes associated with Ordinal encoding
+
+1. Label Encoding
+	ex. phd, ms, be, stats
+2. Target Guided Ordinal encoding 
+	ex. 
+
+
+
+Feature Scaling
+Length - meter (m)
+Time - second (s)
+Amount of substance - mole (mole)
+Electric current - ampere (A)
+Temperature - kelvin (K)
+Luminous intensity - candela (cd)
+Mass - kilogram (kg)
+
+
+
+Missing values
+
+1. Delete the rows
+2. Replace with the most frequent value
+3. apply classifier algorithm to predict - missing columns
